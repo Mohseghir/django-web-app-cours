@@ -1,0 +1,4 @@
+# Ignore the env directory
+env/
+merchex/db.sqlite3
+start_project.sh
